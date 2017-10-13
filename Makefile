@@ -1,7 +1,7 @@
 all: build
 
 build:
-	@docker build --tag=sameersbn/gitlab-ci-multi-runner .
+	@docker build --tag=ez123/gitlab-runner .
 
-release: build
-	@docker build --tag=sameersbn/gitlab-ci-multi-runner:$(shell cat VERSION) .
+# release: build
+# 	@docker build --tag=ez123/gitlab-runner:$(shell cat VERSION) .

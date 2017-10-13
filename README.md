@@ -1,3 +1,11 @@
+Fork of https://github.com/digitalLumberjack/docker-gitlab-ci-multi-runner
+Updated to ubuntu 16.04
+Updated to use gitlab new install method
+
+
+
+
+
 [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/gitlab-ci-multi-runner/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/gitlab-ci-multi-runner)
 
 # sameersbn/gitlab-ci-multi-runner:1.11.2
